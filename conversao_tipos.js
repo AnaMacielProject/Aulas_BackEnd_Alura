@@ -10,5 +10,7 @@ console.log( numero + numString); // concatena
 // conversao explicita
 // funcao number() e string()
 console.log( Number(numString)+ numero); // coverte o valor string para numero
-console.log( String(numero)+numString );
+console.log( String(numero)+numString ); // concatena
+
+
 
